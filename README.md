@@ -1,13 +1,27 @@
 ### Hi there 👋, I'm Kurniawan Yudha Putrama
 
-## I'm Muslim Developer, just call me Maskur
-- 🔭 I’m currently working on Tokopedia
+## I'm Muslim Developer, just call me Wawan
+- 🔭 I’m currently working on Tokopedia as Software Engineer
 - 🌱 I’m currently learning everything
+- 🚧 I'm open for collaboration and project
+- 🏹 I like archery (still training)
 - 📫 How to reach me: DM me at instagram [@yudhaputrama](https://instagram.com/yudhaputrama)
 
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/yudhaputrama) |
-[Instagram](https://instagram/yudhaputrama)
+[Instagram](https://instagram/yudhaputrama) |
+[Profile](https://yudhaputrama.id) | 
+[Blog](https://blog.yudhaputrama.id)
 
-### 📕 Languages and Tools:
+### 📕 Languages
+- Golang
+- NodeJS (Express, AdonisJS)
+- PHP (Laravel)
+- Java + Kotlin (Android)
+- Javascript (Vue.js, React)
 
+### 🧰 Tools
+- Docker
+- Kubernetes
+- VSCode
+- Goland
