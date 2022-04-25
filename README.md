@@ -18,7 +18,9 @@
 - NodeJS (Express, AdonisJS)
 - PHP (Laravel)
 - Java + Kotlin (Android)
-- Javascript (Vue.js, React)
+- Javascript / Typescript (Vue.js, NuxtJS, React, NextJS)
+- MySQL, MongoDB, PostgreSQL
+- GraphQL
 
 ### 🧰 Tools
 - Docker
