@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kurniawan Yudha Putrama
 
-## I'm Muslim Developer, just call me Wawan
+## I'm Fullstack Developer, just call me Wawan
 - 🔭 I’m currently working on Tokopedia as Software Engineer
 - 🚧 I'm open for collaboration and project
 - 📫 How to reach me: DM me at instagram [@yudhaputrama](https://instagram.com/yudhaputrama)
